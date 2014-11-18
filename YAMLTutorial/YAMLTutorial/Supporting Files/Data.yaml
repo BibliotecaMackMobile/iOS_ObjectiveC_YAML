@@ -1,0 +1,13 @@
+# Data.yml
+# Created by Kaê Angeli Coutinho
+---
+Name: YAML Tutorial
+Creator: Kaê Angeli Coutinho
+Platform: iOS 8.0
+ListExample:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+YetAnotherListExample: [Both,Literal,And,Numerical,Types,Are,Accepted]

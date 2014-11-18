@@ -1,0 +1,12 @@
+# Podfile
+# Created by Kaê Angeli Coutinho
+
+platform :ios, "7.0"
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "YAMLTutorial" do
+
+pod 'YAML-Framework', '~> 0.0'
+
+end
